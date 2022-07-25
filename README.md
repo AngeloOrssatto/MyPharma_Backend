@@ -1,4 +1,6 @@
-# Awesome Project Build with TypeORM
+# Backend CRUD de Produtos
+
+Desenvolvido por Angelo Orssatto
 
 Steps to run this project:
 
